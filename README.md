@@ -1,13 +1,3 @@
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/Screenshot (386).png" width="450" style="margin: 10px;">
-  <img src="screenshots/Screenshot (387).png" width="450" style="margin: 10px;">
-  <img src="screenshots/Screenshot (388).png" width="450" style="margin: 10px;">
-  <img src="screenshots/Screenshot (390).png" width="450" style="margin: 10px;">
-  <img src="screenshots/Screenshot (391).png" width="450" style="margin: 10px;">
-</p>
-
 <p align="center">
   <img src="https://i.postimg.cc/9FrhPvyR/bloodbanner.jpg" alt="Blood Donation Management System Banner" width="100%">
 </p>
@@ -40,7 +30,14 @@ This project was developed using **Apache NetBeans**, following an MVC-inspired 
 ---
 
 ## 📸 Screenshots
-All screenshots are placed inside the **/Screenshots** folder for easy viewing.
+
+<p align="center">
+  <img src="screenshots/Screenshot (386).png" width="450" style="margin: 10px;">
+  <img src="screenshots/Screenshot (387).png" width="450" style="margin: 10px;">
+  <img src="screenshots/Screenshot (388).png" width="450" style="margin: 10px;">
+  <img src="screenshots/Screenshot (390).png" width="450" style="margin: 10px;">
+  <img src="screenshots/Screenshot (391).png" width="450" style="margin: 10px;">
+</p>
 
 ---
 
