@@ -8,7 +8,7 @@
   <img src="screenshots/Screenshot (391).png" width="450" style="margin: 10px;">
 </p>
 
-![BANNER](https://i.ibb.co/pv8QJFj/blood-donation-banner.png)
+![BANNER]((https://imgur.com/a/c3nNfrY))
 
 # Blood Donation Management System
 A Java Web Application built using JSP, Servlets, and MySQL to manage blood donors, recipients, and blood stock efficiently.
