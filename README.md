@@ -1,57 +1,29 @@
-# Blood Donation Management System  
-A web-based Java application developed using **JSP, Servlets, and MySQL**, designed to manage blood donors, recipients, blood groups, and donation activities efficiently.
+# Blood Donation Management System
+A Java Web Application built using JSP, Servlets, and MySQL to manage blood donors, recipients, and blood stock efficiently.
 
----
-
-## 📌 Project Overview
-The **Blood Donation Management System** is designed to digitalize and simplify the blood donation process.  
-It provides easy access to donor information, blood availability, and management tools for administrators.
-
-The system is built as a **Java Web Application** using:
-- JSP & Servlet  
-- MVC Architecture  
-- MySQL Database  
-- Apache Tomcat Server  
-- NetBeans IDE  
-
----
-
-## 🎯 Features
-### 👥 **Donor Management**
-- Add, update, delete donor information  
+## Features
+- Donor registration and management  
 - Search donors by blood group  
-- View donor history  
+- Blood stock tracking  
+- Recipient management  
+- Admin login system  
+- Simple and user-friendly interface  
 
-### 🩸 **Blood Stock Management**
-- Track the available blood units per blood group  
-- Update blood availability after donation/issuance  
+## Technologies Used
+- Java (JSP & Servlets)  
+- MySQL Database  
+- Apache Tomcat  
+- NetBeans IDE  
+- MVC Architecture  
 
-### 📥 **Recipient Management**
-- Add recipients  
-- Issue blood units  
-- Maintain recipient history  
+## How to Run
+1. Open NetBeans  
+2. Go to File → Open Project and select this folder  
+3. Set Apache Tomcat as the server  
+4. Configure MySQL database connection  
+5. Run the project (F6)  
 
-### 🔒 **Admin Panel**
-- Secure login system  
-- Manage all operations from a single dashboard  
-
----
-
-## 🛠️ Technologies Used
-| Category | Technology |
-|---------|------------|
-| Language | Java (JSP, Servlet) |
-| Database | MySQL |
-| Server | Apache Tomcat |
-| IDE | NetBeans |
-| Architecture | MVC |
-
----
-
-## 🗂️ Project Structure
-/src
-/web
-/WEB-INF
-/META-INF
-build.xml
-context.xml
+## Database Setup
+Create a MySQL database:
+```sql
+CREATE DATABASE donor;
